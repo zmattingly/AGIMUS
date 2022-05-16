@@ -115,6 +115,10 @@
     "file": "video/drops/mclaughlingroupissuethree.mp4",
     "description": "Mclaughlin Group: Issue three! Issue 3."
   },
+  "Mclaughlin Group: ISSUE FOUR!": {
+    "file": "video/drops/mclaughlingroupissuefour.mp4",
+    "description": "Mclaughlin Group: Issue Four! Issue 4."
+  },
   "Neutrogena T/Gel: It Works": {
     "file": "video/drops/neutrogenatgelitworks.mp4",
     "description": "Michael Dorn: Neutrogena T Gel, it works!"
@@ -146,6 +150,10 @@
   "There's Coffee In That...": {
     "file": "video/drops/coffee.mp4",
     "description": "Captain Janeway: There's coffee in that..."
+  },
+  "This Is Fucking Spectacular...": {
+    "file": "video/drops/thisisfuckingspectacular.mp4",
+    "description": "Miles Edward O'Brien: This is fucking spectacular!"
   },
   "Tom Paris: Am I Making Any Sense Here?": {
     "file": "video/drops/amimakinganysensehere.mp4",
