@@ -65,9 +65,8 @@ async def end_trivia():
   TRIVIA_MESSAGE = None
   await channel.send(embed=embed)
 
-
-@bot.event
-async def on_raw_reaction_add(payload:discord.RawReactionActionEvent):
+# Used within main.py's "on_raw_reaction_add" @bot.event to handle incoming reactions
+async def handle_trivia_reactions(payload:discord.RawReactionActionEvent):
   global TRIVIA_ANSWERS, POKER_GAMES
   if payload.user_id != bot.user.id:
     # poker reacts
